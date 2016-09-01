@@ -1,4 +1,3 @@
-layout_spectrum: 0.41707899793982506
 typography_spectrum: 0.7917739897966385
 color:
   brandStrength: 0.6071458326186985
@@ -11,4 +10,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.41707899793982506
 name: theprivacycourse
+title: The privacy course
