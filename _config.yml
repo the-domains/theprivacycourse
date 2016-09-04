@@ -1,16 +1,14 @@
-layout_spectrum: 0.19385035266168416
-typography_spectrum: 0.18301603407599032
+layout_spectrum: 0.41707899793982506
+typography_spectrum: 0.7917739897966385
 color:
   brandStrength: 0.6071458326186985
   lightness: 0.8070344170555472
   saturation: 0.7753914843779057
   rhythmicContrast: 0.5149926249869168
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: theprivacycourse
-title: The privacy course
-description: Take ownership of your digital life
